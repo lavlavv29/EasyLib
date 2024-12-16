@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EasyLib</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="auth0_client_id">0LgJfQp1SFwYKNHKbu8VJdP4Sug169Lt</string>
+    <string name="auth0_domain">dev-k86utbxfpfhqo4hr.us.auth0.com</string>
+    <string name="add_item">Add item</string>
+
+</resources>
